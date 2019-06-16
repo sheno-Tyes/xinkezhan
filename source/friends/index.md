@@ -1,5 +1,0 @@
----
-title: friends
----
-
-#  friends
